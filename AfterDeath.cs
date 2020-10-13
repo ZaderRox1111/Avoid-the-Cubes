@@ -7,7 +7,7 @@ public class AfterDeath : MonoBehaviour
 {
     
     
-    a
+    
    
 
 }
